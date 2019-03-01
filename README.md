@@ -1,6 +1,6 @@
 ## Download setup file
 
- Download the installation package from [Here](https://github.com/mobtexting/mobtexting-excel/blob/master/setup.exe).
+ Download the installation package from [Here](https://github.com/mobtexting/mobtexting-excel/blob/master/mobtextingaddinsetup.msi).
 
 ## Security
 
